@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arsalan Ahmed
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Scince
+- 🌱 I’m currently learning Data Scince by Jawan Pakistan
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
